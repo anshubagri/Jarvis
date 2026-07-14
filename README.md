@@ -56,15 +56,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Make your changes and submit a pull request.
 
 
-## Contact
-If you would like to contact me, you can reach me at shaswatgusain1@gmail.com.
-
-
-## Links
-[GitHub] (https://github.com/Boahan)
-
-[LinkedIn] (https://www.linkedin.com/in/shaswat-gusain-2924a324a)
-
-
 ## Copyright
-Copyright © 2024 Shaswat Gusain.
+Copyright © 2026 Anshu Singh Bagri.
